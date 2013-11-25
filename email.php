@@ -1,6 +1,6 @@
 <br>Noah's First Draft
 <html>
-	<head>
+	<head></bdoy>
 		<title>Tickit | Inbox</title>
 		<link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="dist/css/bootstrap-theme.min.css">
